@@ -12,9 +12,7 @@ Tentacus is not danced by dancers. It is danced through them.
 
 ## Overview
 
-
-Tentacus is a collective embodiment experiment in mixed reality. Each performer wears a lightweight MR interface, enabling haptic and visual interaction with a shared digital layer. Through a left-hand network (symbolizing continuity) and right-hand exploration (symbolizing distributed agency), Tentacus models a decentralized intelligence system — inspired by the octopus and its limbic cognition — to challenge human-centric notions of coordination, control, and selfhood.
-
+Tentacus is a collective embodiment experiment in mixed reality. Each performer wears a lightweight glove interface, enabling haptic with a shared digital layer. Through a left-hand network (symbolizing continuity) and right-hand exploration (symbolizing distributed agency), Tentacus models a decentralized intelligence system — inspired by the octopus and its limbic cognition — to challenge human-centric notions of coordination, control, and selfhood.
 
 ## Project Environment
 
@@ -28,16 +26,16 @@ We have successfully tested them with the following software versions:
 
 In theory, other versions of Unity and Xcode that are close to these should also be compatible. However, if you encounter any issues during the build process, feel free to raise an issue in the repository.
 
-## Knowledge Prerequisites
+## How to Use 
 
-Implementing a multiplayer AR/MR project involves addressing two critical aspects: network communication and coordinate system synchronization. Network communication is essential for exchanging data across connected devices, and coordinate system synchronization ensures that virtual content is rendered consistently in the real-world locations across different devices, each with its own independent local coordinate system.
-
-
-## Boilerplates
-
-Please print out the QR code and place it in a visible location to colocated all players. 
+Please print out the QR code and place it in a visible location to colocated all players. Make it 15cm x 15cm sharp in the physical dimension. 
 
 https://github.com/holokit/holokit-image-tracking-relocalization/blob/main/Assets/Images/T_QRCode.png
+
+## Change the host IP
+
+Change 192.168.1.100 to real host IP
+
 
 ## External Marker Relocalizaion Boilerplate
 
